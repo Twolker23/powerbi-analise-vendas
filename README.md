@@ -20,7 +20,7 @@ O dashboard também possui filtros interativos por **categoria** e **forma de pa
 
 ## 📸 Dashboard
 
-![Dashboard de Análise de Vendas](imagens/dashboard.png)
+![Dashboard de Análise de Vendas](imagens/dashboard-v2.png)
 
 ## 📈 Principais Indicadores
 
