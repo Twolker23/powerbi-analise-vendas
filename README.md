@@ -107,7 +107,7 @@ DIVIDE(
 powerbi-analise-vendas/
 │
 ├── imagens/
-│   └── dashboard.png
+│   └── dashboard-v2.png
 │
 ├── dataset.xlsx
 ├── powerbi-analise-vendas.pbix
